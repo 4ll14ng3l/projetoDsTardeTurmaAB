@@ -4,4 +4,5 @@ Joao-Pedro291 -> João Pedro Calado de Oliveira
 danielsrbueno -> Daniel da Silva Ramos Bueno  
 JoaoALLMIGHT -> João Victor Torres Pereira  
 Dubovicki -> Gustavo Esteque Dubovicki  
-CaioVBCosta -> Caio Vitor de Brito Costa  
+CaioVBCosta -> Caio Vitor de Brito Costa 
+4ll14ng3l -> Allix Lemos Santos
